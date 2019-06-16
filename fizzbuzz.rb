@@ -6,7 +6,8 @@ if num % 3 == 0
   puts "Fizz"
   
   elsif num % 5 == 0 
-  puts "fizzbuzz"
- elsif num % 3 &&  5 == log10puts "fizzbuzz" 
+  puts "buzz"
   
-  elsif
+ elsif num % 3 &&  5 == 0 
+ "fizzbuzz" 
+  
