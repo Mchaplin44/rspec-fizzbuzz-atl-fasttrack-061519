@@ -7,5 +7,6 @@ if num % 3 == 0
   
   elsif num % 5 == 0 
   puts "fizzbuzz"
+ elsif num % 3 &&  5 == log10puts "fizzbuzz" 
   
   elsif
