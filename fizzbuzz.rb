@@ -2,15 +2,15 @@
 # See README.md for instructions on how to do this
 
 def fizzbuzz(num)
+   if num % 3 ==0 && filter_parameter_logging5 == 0 
+   "Fizbuzz"
+elsif num % 5 == 0
+  "buzz"
   
-if num % 3 == 0
-  "Fizz"
-  
-  elsif num % 5 == 0 
-   "buzz"
+  elsif num % 3 == 0  
+   "fizz"
   
 
- "fizzbuzz" 
 else
   nil 
 end 
