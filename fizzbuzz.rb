@@ -9,5 +9,5 @@ if num % 3 == 0
   puts "buzz"
   
  elsif num % 3 &&  5 == 0 
- "fizzbuzz" 
+puts  "fizzbuzz" 
   
