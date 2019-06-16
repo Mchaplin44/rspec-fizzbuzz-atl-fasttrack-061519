@@ -6,8 +6,10 @@ if num % 3 == 0
   "Fizz"
   
   elsif num % 5 == 0 
-  puts "buzz"
+   "buzz"
   
  elsif num % 3 &&  5 == 0 
-puts  "fizzbuzz" 
-  
+ "fizzbuzz" 
+else
+  nil 
+end 
